@@ -4,6 +4,8 @@
 
 The **COVID-19 Global Data Tracker** is a data analysis project built with Python. It gathers and analyzes global COVID-19 statistics to help visualize and understand the pandemic's impact across different countries and regions. This project was created as part of the final submission for the Python Development Module.
 
+
+
 ---
 
 ## 🎯 Objectives
