@@ -11,6 +11,7 @@ The **COVID-19 Global Data Tracker** is a data analysis project built with Pytho
 
 ## 🎯 Objectives
 
+
 - Fetch and analyze real-world COVID-19 data.
 - Present insights through visualizations and statistics.
 - Practice using data science libraries in Python.
